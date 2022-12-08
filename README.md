@@ -58,6 +58,6 @@ Kodu çalıştırın
   [![Instagram](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/securist0x01)
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/i1.png)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/i.png)
 
   
