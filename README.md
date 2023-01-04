@@ -14,7 +14,7 @@ Veri Tabanını data.txt yerine Herhangi bir SQL Veri Tabanı kullanabilirsiniz.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/securist0x02/sosyal-market-kayit/
+  git clone https://github.com/fkozdev/sosyal-market-kayit/
 ```
 
 Proje dizinine gidin
@@ -55,9 +55,9 @@ Kodu çalıştırın
 [![Creative Commons Zero v1.0 Universal License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/securist0x02/sosyal-market-kayit/blob/main/LICENSE)
 ## Sosyal Medya
 
-  [![Instagram](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/securist0x01)
+  [![Instagram](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/fkozdev)
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/i.png)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/fkozdev/sosyal-market-kayit/main/imgt/i.png)
 
   
