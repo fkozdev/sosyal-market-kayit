@@ -49,11 +49,6 @@ Kodu çalıştırın
 
 **Pip Library 2 :**  Ast
 
-  
-## Rozetler
-
-[Lisans](hthttps://github.com/fkozdev/sosyal-market-kayit/blob/main/LICENSE)
-## Sosyal Medya
 
   [![Instagram](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/fkozdev)
 ## Ekran Görüntüleri
