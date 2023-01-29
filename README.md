@@ -52,7 +52,7 @@ Kodu çalıştırın
   
 ## Rozetler
 
-[![Creative Commons Zero v1.0 Universal License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/securist0x02/sosyal-market-kayit/blob/main/LICENSE)
+[Lisans](hthttps://github.com/fkozdev/sosyal-market-kayit/blob/main/LICENSE)
 ## Sosyal Medya
 
   [![Instagram](https://raw.githubusercontent.com/securist0x02/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/fkozdev)
