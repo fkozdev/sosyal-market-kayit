@@ -14,7 +14,7 @@ Veri Tabanını data.txt yerine Herhangi bir SQL Veri Tabanı kullanabilirsiniz.
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/fuekihigh/sosyal-market-kayit/
+  git clone https://github.com/fuekisecurity/sosyal-market-kayit/
 ```
 
 Proje dizinine gidin
@@ -50,9 +50,9 @@ Kodu çalıştırın
 **Pip Library 2 :**  Ast
 
 
-  [![Instagram](https://raw.githubusercontent.com/fuekihigh/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/fuekihigh)
+  [![Instagram](https://raw.githubusercontent.com/fuekisecurity/sosyal-market-kayit/main/imgt/indir.jpg)](https://www.instagram.com/fuekisecurity)
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/fuekihigh/sosyal-market-kayit/main/imgt/i.png)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/fuekisecurity/sosyal-market-kayit/main/imgt/i.png)
 
   
